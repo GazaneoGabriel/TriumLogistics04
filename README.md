@@ -56,9 +56,9 @@ Finalmente, o projeto inclui a elaboração de um ranking de eficiência para os
 
 # Resultado Esperado
 
-Desenvolvimento de um modelo de projeção de tendências para a prancha média operacional (t/h).
-Avaliação detalhada da distribuição dos tempos de operação nos berços portuários.
-Ranking de eficiência para os principais terminais de movimentação de granéis.
+-Desenvolvimento de um modelo de projeção de tendências para a prancha média operacional (t/h).
+-Avaliação detalhada da distribuição dos tempos de operação nos berços portuários.
+-Ranking de eficiência para os principais terminais de movimentação de granéis.
 
 
 <br>
