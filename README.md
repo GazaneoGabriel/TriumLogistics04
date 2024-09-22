@@ -67,7 +67,7 @@ Finalmente, o projeto inclui a elaboração de um ranking de eficiência para os
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2024 | Concluído | [Ver Relatório]() | 
-|Backlog | 27/09/2024 | a fazer | [Ver Relatório](https://github.com/user-attachments/files/17091492/BACKLOG.xlsx)) | 
+|Backlog | 27/09/2024 | a fazer | [Ver Relatório](https://github.com/user-attachments/files/17091492/BACKLOG.xlsx) | 
 |01|  18/10/2024| a fazer |[Ver Relatório]() | 
 |02| 08/11/2024 | a fazer |[Ver Relatório]() | 
 |03| 29/11/2024 | a fazer |[Ver Relatório]()  | 
