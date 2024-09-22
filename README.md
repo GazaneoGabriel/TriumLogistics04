@@ -79,7 +79,7 @@ Sprint | Previsão | Status| Histórico|
   
 <div align="center">
     
-![product backlog]([https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/cdb84b04-5e8a-4da0-aa5e-b63c8dc1814a](https://github.com/GazaneoGabriel/TriumLogistics04/issues/2#issue-2541273616))
+![product backlog]([(https://github.com/GazaneoGabriel/TriumLogistics04/issues/2#issue-2541273616)](https://github.com/GazaneoGabriel/TriumLogistics04/issues/2#issue-2541273616))
 
 </div>
 
