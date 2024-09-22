@@ -245,15 +245,17 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 # Objetivo do Projeto
 
-O objetivo deste projeto é otimizar as rotas de três plantas pertencentes à mesma empresa por meio da aplicação de técnicas de pesquisa operacional. Pretende-se desenvolver um modelo que maximize a eficiência logística, minimizando custos e tempo de transporte entre as plantas, garantindo assim uma distribuição mais ágil e econômica dos produtos.
+O objetivo deste projeto é analisar a variação da prancha média operacional de carregamento de granéis (toneladas por hora - t/h) mensalmente ao longo dos anos de 2014 a 2023, desenvolvendo um modelo de projeção com base em tendências históricas. Essa análise permitirá identificar padrões sazonais e tendências a longo prazo, contribuindo para a melhoria da eficiência operacional dos terminais de graneis.
 
-Além disso, o projeto visa implementar um modelo matemático que possa ser utilizado para realizar análises de cenários e simulações, permitindo à empresa avaliar o impacto de diferentes estratégias. Isso possibilitará uma abordagem mais proativa na gestão financeira da empresa, permitindo a identificação de oportunidades de maximização de lucros e mitigação de riscos.
+Além disso, o projeto visa avaliar a distribuição estatística dos tempos de operação portuária nos berços de carregamento de granéis, permitindo uma melhor compreensão das variáveis que afetam a eficiência portuária. Com essa avaliação, será possível determinar gargalos e oportunidades de melhoria nos processos logísticos portuários.
+
+Finalmente, o projeto inclui a elaboração de um ranking de eficiência para os 10 principais terminais de movimentação de granéis com base na quantidade de berços e na prancha média operacional. O ranking permitirá ao clietne identificar quais terminais operam com maior eficiência, fornecendo subsídios para decisões estratégicas de alocação de recursos e possíveis melhorias operacionais.
 
 # Resultado Esperado
 
-O resultado esperado do modelo de otimização utilizando pesquisa operacional é a definição de rotas de transporte mais eficientes entre as três plantas da empresa. Espera-se que o modelo forneça um plano detalhado que minimize os custos totais de transporte, levando em consideração fatores como distância, capacidade dos veículos, tempo de viagem e restrições operacionais.
-
-Espera-se que o modelo matemático identifique as rotas mais rápidas e econômicas, garantindo entregas pontuais e reduzindo o tempo ocioso dos veículos. Além disso, o modelo deve ser capaz de adaptar-se a diferentes cenários e condições operacionais, proporcionando flexibilidade para lidar com imprevistos e variações na demanda.
+Desenvolvimento de um modelo de projeção de tendências para a prancha média operacional (t/h).
+Avaliação detalhada da distribuição dos tempos de operação nos berços portuários.
+Ranking de eficiência para os principais terminais de movimentação de granéis.
 
 <br>
 
