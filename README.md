@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
+![image](https://github.com/user-attachments/assets/c251534e-3994-4a35-8f59-eb75bd603435)<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Olá,+Somos+a+Trium+Logistics!+:%29)](https://git.io/typing.svg)
 
@@ -109,11 +109,15 @@ Regras de Negócio
 -
 
 Requisitos funcionais 
-- Uma estrutura de banco de dados relacional;
-- Uma tela de Power BI que mostre a produtividade mensal dos veículos (relação entre outputs e inputs);
-- Uma tele Power BI com a evolução dos custos por Km de cada rota, filtrando por fábricas;
-- Uma tele Power BI com a evolução dos custos por unidade transportada de cada rota, filtrando por fábricas;
-- Relatórios;
+- Construção de uma série histórica em formato acessível que agregue os dados de movimentação de 2014 a 2023
+
+- Interface em BI para avaliação de indicadores portuários (tempos de processamento e espera, produção dos shiploaders em termos de processamento por hora)
+
+- Modelo de projeção de tendência da produtividade dos shiploaders 
+
+- Compartilhamento do código pelo Google COLAB
+
+- Rankeamento dos portos por meio da aplicação do DEA
   
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
@@ -123,34 +127,30 @@ Requisitos não funcionais
 - Slack
   
 
-## Sprint 1. Concepção
+## Sprint 1. Backlog
 - [x] Estruturação do GitHub;
-- [x] Desenvolver uma Base de dados em SQL;
-- [x] Desenvolver um Dashboard;
+- [x] Estruturação do Jira Software;
 - [x] Backlog do Produto;
-- [x] Estruturação das tasks no Jira Software;
-- [x] Relatório técnico da Sprint 1;
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [x] Relatório técnico da Sprint 2;
-- [x] Obter e trabalhar a estrutura relacional de tabelas com base de dados disponibilizados pelo cliente atráves do sistema MySQL;
-- [x] Criar funções matemáticas para medir a produtividade das 3 Fábricas;
-- [x] criar um ambiente de trabalho dentro do python com os dados do SQL;
+- [x] Obter Ranking de Eficiencia dos Portos por meio do DEA CCR;
+- [x] Criar base de dados relacional;
+- [x] Estruturação dos dados a serem trabalhados no projeto;
 
       
 ## Sprint 3 . Implementação
 - [x] Relatório técnico da Sprint 3;
-- [x] Criação da produtividade mensal no Power BI e a relação entre outputs e inputs;
-- [x] Aplicação do método de transportes para otimização da distribuição;
-- [x] Criação do storytelling;
+- [x] Aplicação do Ranking de Eficiencia dos Portos com visualização no Power BI;
+- [x] Aplicação da base de dados relacional no Power BI;
+- [x] Integração de dados entre softwares diferentes;
 
       
 ## Sprint 4. Operacionalização
 - [x] Relatório técnico da Sprint 4;
-- [x] Fazer uma análise dos resultados gerados pelo projeto;
-- [x] Correção de erros gerados para verificar possiveis melhorias;
-- [x] Interligar as ferramentas SQLcom Python e Power BI;
-- [x] Criação do storytelling básico;
+- [x] Storytelling final das dashboards no Power BI;
+- [x] finalização do produto com dashboard interativo;
+
 
 # Competências desenvolvidas
 
