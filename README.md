@@ -97,26 +97,13 @@ Sprint | Previsão | Status| Histórico|
  # Produto 
   
 
-* Link para acessar o produto: [Click Aqui](https://fatecspgov-my.sharepoint.com/personal/julia_silva130_fatec_sp_gov_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjulia%5Fsilva130%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments%2Fprevis%C3%A3o1%20%282%29%2Epbix&parent=%2Fpersonal%2Fjulia%5Fsilva130%5Ffatec%5Fsp%5Fgov%5Fbr%2FDocuments) 
-
+* Link para acessar o produto: Em aguardo
 
 ### Base de dados
 
-
-* Resultado do SQL [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024336/Report_anomalias.pdf)
-
-
-![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/2504e653-9723-4fa5-8b41-6d2d7d579723)
-
-* Resultado da Otimização em Python [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/Proposta_de_otmiza%C3%A7%C3%A3o_2024.ipynb)
-
-![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_colab.gif?raw=true)
+* Em aguardo
 
 
-![Base_de_Dados 2](https://github.com/Trium-Logistics/Trium-Logistics-3/blob/sprint-3/sprint_3_dashboard-_2_.gif)
-
-
-![Gravando2024-06-17174724-ezgif com-video-to-gif-converter (1)](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/a11c8a0f-d81d-4244-9527-b07481d477e8)
 
 
 Regras de Negócio
