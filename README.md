@@ -86,7 +86,6 @@ Sprint | Previsão | Status| Histórico|
 
 # Tecnologias Específicas/Apoio
 
-* 5W2H;
 * GitHub;
 * Jira Software;
 * Power Bi;
