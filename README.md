@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c251534e-3994-4a35-8f59-eb75bd603435)<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DAA520&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Olá,+Somos+a+Trium+Logistics!+:%29)](https://git.io/typing.svg)
 
@@ -38,7 +38,6 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  |  <a href="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/6ee2da46-9568-4bcd-abac-a6381bc06866"><img src="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/6ee2da46-9568-4bcd-abac-a6381bc06866" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p> Jonathan Martins</p>              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-gazaneo-a531b8253/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GazaneoGabriel)  |
 | Team Member |  <a href="https://user-images.githubusercontent.com/142995260/273610141-49cedf39-11a5-4ee8-8894-ff717f5714f6.jpg"><img src="https://github.com/GazaneoGabriel/TriumLogistics04/issues/1#issue-2540619473" text-align="center" width="50" height="60" class="https://github.com/GazaneoGabriel/TriumLogistics04/issues/1#issue-2540619473"></a> <p>Everton Ferreira</p>|     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezenildo-campos-81043b266/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ezenildo-Campos)              |
 |  Team Member  | <a href="https://user-images.githubusercontent.com/142995260/273610141-49cedf39-11a5-4ee8-8894-ff717f5714f6.jpg"><img src="https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/ee99202b-1774-4af1-b3db-5d4ecfc49b8djpg" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p> Márcia Soares</p>   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%A1rcia-soares-de-almeida-22814814a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marciasoaresa)          |
-
 
 
 
@@ -182,15 +181,3 @@ Requisitos não funcionais
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-
-
-
-
-
-
-
-
-
-
-
