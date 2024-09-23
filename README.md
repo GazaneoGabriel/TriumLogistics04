@@ -97,12 +97,11 @@ Sprint | Previsão | Status| Histórico|
  # Produto 
   
 
-* Link para acessar o produto: Em aguardo
+* Link para acessar o produto: A fazer
 
 ### Base de dados
 
-* Em aguardo
-
+* A fazer
 
 
 
