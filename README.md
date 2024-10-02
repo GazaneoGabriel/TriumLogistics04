@@ -78,7 +78,7 @@ Sprint | Previsão | Status| Histórico|
   
 <div align="center">
     
-![Backlog do Produto](https://github.com/user-attachments/assets/b4f3c2ee-267d-4bd5-9a27-13bda54913fe)
+![Backlog do Produto](https://github.com/user-attachments/assets/885d3045-6d56-4543-b943-481df8ff7c9)
 
 
 </div>
