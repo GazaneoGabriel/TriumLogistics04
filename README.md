@@ -102,8 +102,7 @@ Sprint | Previsão | Status| Histórico|
 
 * Resultado do Colab [Ver Resuldado](https://drive.google.com/file/d/1rnoTJoZxwd0ugpjp4JuA0coZdH1z90I2/view?usp=drive_link)
 
-
-(https://github.com/user-attachments/assets/5af8f5ee-4676-4721-b60d-29c53695d68d)
+![Gif Trium](https://github.com/user-attachments/assets/5af8f5ee-4676-4721-b60d-29c53695d68d)
 
 
 
