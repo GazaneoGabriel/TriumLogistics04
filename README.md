@@ -100,7 +100,7 @@ Sprint | Previsão | Status| Histórico|
 ### Base de dados
 
 
-* Resultado do Colab [Ver Resuldado](https://github.com/Trium-Logistics/Trium-Logistics-3/files/15024336/Report_anomalias.pdf)
+* Resultado do Colab [Ver Resuldado](https://drive.google.com/file/d/1rnoTJoZxwd0ugpjp4JuA0coZdH1z90I2/view?usp=drive_link)
 
 
 ![Gif Trium](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/2504e653-9723-4fa5-8b41-6d2d7d579723)
