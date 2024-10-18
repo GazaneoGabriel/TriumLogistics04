@@ -102,7 +102,7 @@ Sprint | Previsão | Status| Histórico|
 
 * Resultado do Colab [Ver Resuldado](https://drive.google.com/file/d/1rnoTJoZxwd0ugpjp4JuA0coZdH1z90I2/view?usp=drive_link)
 
-![Gif Trium](https://github.com/GazaneoGabriel/TriumLogistics04/issues/8#issue-2596441295)
+![logapi3](https://github.com/user-attachments/assets/4e6537cf-20e3-461a-a4b2-37412404955f)
 
 
 
