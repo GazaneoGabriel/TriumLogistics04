@@ -70,7 +70,6 @@ Sprint | Previsão | Status| Histórico|
 |02|  18/10/2024| a fazer |[Ver Relatório]() | 
 |03| 08/11/2024 | a fazer |[Ver Relatório]() | 
 |04| 29/11/2024 | a fazer |[Ver Relatório]()  | 
-|Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório]() | 
 
 <br>
 
