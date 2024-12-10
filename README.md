@@ -112,6 +112,7 @@ Sprint | Previsão | Status| Histórico|
 * Visualização Power Bi
 
 ![ezgif-2-e05eb90012](https://github.com/user-attachments/assets/5b4ea287-b3b4-41cb-be4a-7bf5c77871fe)
+![ezgif-2-0690a3ee3b](https://github.com/user-attachments/assets/67a80575-c078-4b67-8296-1de05e12a109)
 
 
 Regras de Negócio
