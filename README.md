@@ -94,7 +94,7 @@ Sprint | Previsão | Status| Histórico|
  # Produto 
   
 
-* Link para acessar o produto: A fazer
+* Link para acessar o produto: [Link](https://app.powerbi.com/view?r=eyJrIjoiMzEwZmNjYjAtNzY5Yy00ZWY2LWE3MTItNDQyMTVkZjU2OTE5IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)
 
 ### Base de dados
 
@@ -103,7 +103,7 @@ Sprint | Previsão | Status| Histórico|
 
 ![Gif Trium](https://github.com/user-attachments/assets/125c51e8-379d-4878-8853-f1e3c078b5d1)
 
-* Resultado do DEACCR na linguagem R
+* Resultado do DEACCR na linguagem R [Ver Resuldado](https://colab.research.google.com/drive/1J_mWXThhj-G4e-vxhE9SA1wlR6o32lBc?usp=sharing)
 
 ![ezgif-1-b5fc6876cf](https://github.com/user-attachments/assets/4bf97f8e-2629-4308-a382-76a78fe1e544)
 
