@@ -101,7 +101,7 @@ Sprint | Previsão | Status| Histórico|
 
 * Resultado do Colab [Ver Resuldado](https://colab.research.google.com/drive/1J_mWXThhj-G4e-vxhE9SA1wlR6o32lBc?usp=sharing)
 
-![Gif Trium](https://github.com/GazaneoGabriel/TriumLogistics04/issues/9#issuecomment-2532900341)
+![Gif Trium](https://github.com/user-attachments/assets/125c51e8-379d-4878-8853-f1e3c078b5d1)
 
 * Resultado do DEACCR na linguagem R
 
