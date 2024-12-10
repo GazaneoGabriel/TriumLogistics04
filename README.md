@@ -99,7 +99,7 @@ Sprint | Previsão | Status| Histórico|
 ### Base de dados
 
 
-* Resultado do Colab [Ver Resuldado](https://drive.google.com/file/d/1rnoTJoZxwd0ugpjp4JuA0coZdH1z90I2/view?usp=drive_link)
+* Resultado do Colab [Ver Resuldado](https://colab.research.google.com/drive/1J_mWXThhj-G4e-vxhE9SA1wlR6o32lBc?usp=sharing)
 
 ![logapi3](https://github.com/user-attachments/assets/4e6537cf-20e3-461a-a4b2-37412404955f)
 
