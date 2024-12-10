@@ -105,6 +105,8 @@ Sprint | Previsão | Status| Histórico|
 
 * Resultado do DEACCR na linguagem R
 
+![ezgif-1-b5fc6876cf](https://github.com/user-attachments/assets/4bf97f8e-2629-4308-a382-76a78fe1e544)
+
 
   
 * Visualização Power Bi
