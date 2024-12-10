@@ -103,6 +103,8 @@ Sprint | Previsão | Status| Histórico|
 
 ![logapi3](https://github.com/user-attachments/assets/4e6537cf-20e3-461a-a4b2-37412404955f)
 
+![Gravando2024-06-17174724-ezgif com-video-to-gif-converter (1)](https://github.com/GazaneoGabriel/TriumLogistics04/issues/9#issue-2731175050)
+
 
 
 
