@@ -101,9 +101,7 @@ Sprint | Previsão | Status| Histórico|
 
 * Resultado do Colab [Ver Resuldado](https://colab.research.google.com/drive/1J_mWXThhj-G4e-vxhE9SA1wlR6o32lBc?usp=sharing)
 
-![logapi3](https://github.com/user-attachments/assets/4e6537cf-20e3-461a-a4b2-37412404955f)
-
-![Gravando2024-06-17174724-ezgif com-video-to-gif-converter (1)](https://github.com/GazaneoGabriel/TriumLogistics04/issues/9#issue-2731175050)
+[![Gravando2024-06-17174724-ezgif com-video-to-gif-converter (1)](https://github.com/GazaneoGabriel/TriumLogistics04/issues/9#issue-2731175050)](https://github.com/GazaneoGabriel/TriumLogistics04/issues/9#issuecomment-2532900341)
 
 
 * Resultado do DEACCR na linguagem R
