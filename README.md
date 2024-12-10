@@ -106,6 +106,12 @@ Sprint | Previsão | Status| Histórico|
 ![Gravando2024-06-17174724-ezgif com-video-to-gif-converter (1)](https://github.com/GazaneoGabriel/TriumLogistics04/issues/9#issue-2731175050)
 
 
+* Resultado do DEACCR na linguagem R
+
+
+  
+* Visualização Power Bi
+
 
 
 
