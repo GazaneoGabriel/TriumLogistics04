@@ -67,7 +67,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 06/09/2024 | Concluído | [Ver Relatório](https://github.com/user-attachments/files/17158082/Kick-off.API.4.pptx) | 
 |01 - Backlog | 27/09/2024 | Concluído | [Ver Relatório](https://github.com/user-attachments/files/17091492/BACKLOG.xlsx) | 
-|02|  18/10/2024| Concluído |[Ver Relatório]() | 
+|02|  18/10/2024| Concluído |[Ver Relatório](https://github.com/user-attachments/files/18104619/relatorio.sprint.4.odt) | 
 |03| 08/11/2024 | Concluído |[Ver Relatório]() | 
 |04| 29/11/2024 | Concluído |[Ver Relatório]()  | 
 
